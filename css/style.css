@@ -415,6 +415,11 @@ section.work .wrapper .portfolio .portfolio__wrapper a img {
 section.work .wrapper .slider__wrapper {
   overflow: hidden;
 }
+.github {
+  /* background-color: white; */
+  height: 4rem;
+  width: 4rem;
+}
 section.work .wrapper .slider__wrapper .icon__wrap {
   color: var(--info);
   font-size: 26px;
